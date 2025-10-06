@@ -1,5 +1,5 @@
 # Customer-Segmentation
 
-## Project to classify different segment/cluster of customer based on past online retail customer dataset.Help to make better business decision for different segment of customer.
+## Efficiently Segment different division of customers based on their past purchasing behavior to understand which customer is more loyal or frequently buying the product. Implemented the code in Jupyter Notebook and used hybrid algorithm to effectively segregate the consumer group.
 
 - Implemented using Jupyter notebook python 2.7
